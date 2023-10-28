@@ -1,0 +1,38 @@
+.main-container .account-dashboard{padding-top:2.5rem;}
+.main-container .account-dashboard h5{position:relative;margin-bottom:0;padding:10px 15px;border:1px solid #ddd;background-color:#f5f5f5;font-size:13px;font-weight:700;text-transform:uppercase;}
+.main-container .account-dashboard h5 span{float:right;font-size:12px;font-weight:400;text-transform:none;}
+.main-container .account-dashboard .my-account .content{min-height:135px;padding:20px 15px;border:1px solid #ddd;border-top:0;background-color:#fbfbfb;font-size:13px;}
+.main-container .account-dashboard .my-order{margin-top:40px;overflow:hidden;}
+.main-container .account-dashboard .my-order .table-wrap table thead{width:100%;margin-bottom:0;padding:15px 20px;border-bottom:1px solid #fbfbfb;text-align:center;}
+.main-container .account-dashboard .my-order .billing-address, .main-container .account-dashboard .my-order .shipping-address{margin-top:40px;overflow:hidden;}
+.main-container .account-dashboard .my-order .billing-address h4, .main-container .account-dashboard .my-order .shipping-address h4{display:block;width:100%;margin-top:0;margin-bottom:0;padding:15px 20px 15px;border:1px solid #ddd;background-color:#fbfbfb;font:13px;text-align:left;text-transform:uppercase;}
+.main-container .account-dashboard .my-order p{margin:0;padding:10px 20px;border:1px solid #ddd;border-top:0;}
+.main-container .account-dashboard.address-form{margin-top:30px;}
+.main-container .account-dashboard.address-form .page-title{padding:0 0 20px;overflow:hidden;}
+.main-container .account-dashboard.address-form .page-title h2{margin:12px 0 0;float:left;}
+.main-container .account-dashboard.address-form .page-title p{margin:0;float:right;}
+.main-container .account-dashboard.address-form .form-list li{padding:5px 0;}
+.main-container .account-dashboard.address-form .form-list li label{margin-bottom:10px;}
+.main-container .account-dashboard .my-address{margin-bottom:40px;border:solid 1px #f2f2f2;overflow:hidden;}
+.main-container .account-dashboard .my-address h3, .main-container .account-dashboard .my-address h4{display:block;width:100%;margin:0;padding:15px 20px;border-bottom:1px solid #f2f2f2;background-color:#fcfcfc;font:17px;text-align:left;text-transform:uppercase;}
+.main-container .account-dashboard .my-address h3 span, .main-container .account-dashboard .my-address h4 span{float:right;font-size:12px;text-transform:initial;}
+.main-container .account-dashboard .my-address .content{padding:20px;}
+.main-container .account-dashboard .my-address .form-edit{padding:20px;}
+.main-container .order-dashboard{margin-top:30px;}
+.main-container .order-dashboard .billing-address, .main-container .order-dashboard .shipping-address{width:48%;margin-top:40px;float:left;border:solid 1px #f2f2f2;overflow:hidden;}
+.main-container .order-dashboard .billing-address h4, .main-container .order-dashboard .shipping-address h4{display:block;width:100%;margin-top:0;margin-bottom:0;padding:15px 20px 15px;border-bottom:1px solid #f2f2f2;background-color:#fcfcfc;font:17px;text-align:left;text-transform:uppercase;}
+.main-container .order-dashboard .billing-address .content, .main-container .order-dashboard .shipping-address .content{padding:20px;}
+.main-container .order-dashboard .shipping-address{margin-left:30px;width:-webkit-calc(52% - 30px);width:calc(52% - 30px);}
+.main-container .account-login-register{padding-top:2.5rem;}
+.main-container .account-login-register h3{font-size:22px;font-weight:700;letter-spacing:-.01em;color:#222529;}
+.main-container .account-login-register p{margin:0 0 15px;line-height:1.5;}
+.main-container .account-login-register li{margin-bottom:15px;}
+.main-container .account-login-register li a{font-weight:600;color:#222529;}
+.main-container .account-login-register li label{margin-bottom:0.25rem;font-weight:500;font-size:inherit;float:none;display:block;}
+.main-container .account-login-register li label em{position:relative;display:inline-block;float:none;right:0;margin-left:2px;color:#c10000;}
+.main-container .account-login-register li input.input-full{margin-bottom:0;line-height:32px;padding:8px 12px;font-size:.85rem;height:auto;}
+.main-container .account-login-register li .btn{padding:1rem 12px;cursor:pointer;white-space:nowrap;line-height:1.42857;font-size:1rem;font-weight:700;text-transform:uppercase;letter-spacing:0;}
+.main-container .account-login-register #RecoverPasswordForm .buttons-set{margin:1em 0 0;padding:8px 0 0;clear:both;text-align:right;}
+.main-container .account-login-register #RecoverPasswordForm .buttons-set input{float:right;}
+.main-container .account-login-register #RecoverPasswordForm .buttons-set a{float:left;line-height:35px;}
+.main-container .account-login-register #RecoverPasswordForm .buttons-set a:hover{text-decoration:underline;}

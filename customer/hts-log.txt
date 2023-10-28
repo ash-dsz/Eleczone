@@ -1,0 +1,123 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 06 Jul 2022 08:53:09 at https://porto-demo13.myshopify.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://porto-demo13.myshopify.com/ -O1 "C:\My Web Sites\shopify\new" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:53:10	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://cdn.shopify.com/s/files/1/1613/0177/t/28/compiled_assets/scripts.js?853
+08:53:12	Warning: 	Moved Permanently for cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-37a17a663bce00c3e1703d247d958d410831e9e5dac457e1e9aa9f37481e2eb5.js
+08:53:12	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-37a17a663bce00c3e1703d247d958d410831e9e5dac457e1e9aa9f37481e2eb5.js and https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-37a17a663bce00c3e1703d247d958d410831e9e5dac457e1e9aa9f37481e2eb5.js
+08:53:12	Warning: 	Warning moved treated for cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-37a17a663bce00c3e1703d247d958d410831e9e5dac457e1e9aa9f37481e2eb5.js (real one is https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-37a17a663bce00c3e1703d247d958d410831e9e5dac457e1e9aa9f37481e2eb5.js)
+08:53:12	Warning: 	Moved Permanently for cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js
+08:53:12	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js and https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js
+08:53:12	Warning: 	Warning moved treated for cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js (real one is https://cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js)
+08:53:12	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/POST (from https://porto-demo13.myshopify.com/)
+08:53:12	Warning: 	Moved Permanently for cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-fa61fd11817b231631d2fe43dc869d0b1d14a06332792d42f1a1d94bda5aa31e.js
+08:53:12	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-fa61fd11817b231631d2fe43dc869d0b1d14a06332792d42f1a1d94bda5aa31e.js and https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-fa61fd11817b231631d2fe43dc869d0b1d14a06332792d42f1a1d94bda5aa31e.js
+08:53:12	Warning: 	Warning moved treated for cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-fa61fd11817b231631d2fe43dc869d0b1d14a06332792d42f1a1d94bda5aa31e.js (real one is https://cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-fa61fd11817b231631d2fe43dc869d0b1d14a06332792d42f1a1d94bda5aa31e.js)
+08:53:13	Warning: 	Moved Permanently for cdn.shopify.com/s/files/1/1613/0177/files/shop13_header_phone.png
+08:53:13	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/s/files/1/1613/0177/files/shop13_header_phone.png and https://cdn.shopify.com/s/files/1/1613/0177/files/shop13_header_phone.png
+08:53:13	Warning: 	Warning moved treated for cdn.shopify.com/s/files/1/1613/0177/files/shop13_header_phone.png (real one is https://cdn.shopify.com/s/files/1/1613/0177/files/shop13_header_phone.png)
+08:53:14	Warning: 	Moved Permanently for cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner1.jpg
+08:53:14	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner1.jpg and https://cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner1.jpg
+08:53:14	Warning: 	Warning moved treated for cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner1.jpg (real one is https://cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner1.jpg)
+08:53:14	Warning: 	Moved Permanently for cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner2.jpg
+08:53:14	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner2.jpg and https://cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner2.jpg
+08:53:14	Warning: 	Warning moved treated for cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner2.jpg (real one is https://cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner2.jpg)
+08:53:14	Warning: 	Moved Permanently for cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner3.jpg
+08:53:14	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner3.jpg and https://cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner3.jpg
+08:53:14	Warning: 	Warning moved treated for cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner3.jpg (real one is https://cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner3.jpg)
+08:53:17	Warning: 	Moved Permanently for cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner5.jpg
+08:53:17	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner5.jpg and https://cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner5.jpg
+08:53:17	Warning: 	Warning moved treated for cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner5.jpg (real one is https://cdn.shopify.com/s/files/1/1613/0177/files/shop13_home_banner5.jpg)
+08:53:19	Warning: 	Moved Permanently for cdn.shopify.com/shopifycloud/shopify/assets/themes_support/api.jquery-e94e010e92e659b566dbc436fdfe5242764380e00398907a14955ba301a4749f.js
+08:53:19	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/shopifycloud/shopify/assets/themes_support/api.jquery-e94e010e92e659b566dbc436fdfe5242764380e00398907a14955ba301a4749f.js and https://cdn.shopify.com/shopifycloud/shopify/assets/themes_support/api.jquery-e94e010e92e659b566dbc436fdfe5242764380e00398907a14955ba301a4749f.js
+08:53:19	Warning: 	Warning moved treated for cdn.shopify.com/shopifycloud/shopify/assets/themes_support/api.jquery-e94e010e92e659b566dbc436fdfe5242764380e00398907a14955ba301a4749f.js (real one is https://cdn.shopify.com/shopifycloud/shopify/assets/themes_support/api.jquery-e94e010e92e659b566dbc436fdfe5242764380e00398907a14955ba301a4749f.js)
+08:53:19	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/1613/0177/t/28/assets/fonts/Simple-Line-Icons.ttf?v=2.4.0 (from https://cdn.shopify.com/s/files/1/1613/0177/t/28/assets/plugins.css?v=58826214593735965551640001860)
+08:53:19	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/1613/0177/t/28/assets/fonts/Simple-Line-Icons.woff?v=2.4.0 (from https://cdn.shopify.com/s/files/1/1613/0177/t/28/assets/plugins.css?v=58826214593735965551640001860)
+08:53:19	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/1613/0177/t/28/assets/fonts/Simple-Line-Icons.svg?v=2.4.0 (from https://cdn.shopify.com/s/files/1/1613/0177/t/28/assets/plugins.css?v=58826214593735965551640001860)
+08:53:19	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/1613/0177/t/28/assets/owl.video.play.png (from https://cdn.shopify.com/s/files/1/1613/0177/t/28/assets/plugins.css?v=58826214593735965551640001860)
+08:53:19	Warning: 	Moved Permanently for cdn.shopify.com/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif
+08:53:19	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif and https://cdn.shopify.com/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif
+08:53:19	Warning: 	Warning moved treated for cdn.shopify.com/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif (real one is https://cdn.shopify.com/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c.gif)
+08:53:29	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/account/POST (from https://porto-demo13.myshopify.com/account/login?return_url=%2Faccount)
+08:53:29	Warning: 	Found for https://porto-demo13.myshopify.com/checkout/
+08:53:29	Warning: 	File has moved from https://porto-demo13.myshopify.com/checkout/ to https://porto-demo13.myshopify.com/16130177/checkouts/20e00e75368a8681ec21d96b6b0b7e4a
+08:53:29	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/POST (from https://porto-demo13.myshopify.com/collections/dress)
+08:53:32	Warning: 	Moved Permanently for cdn.shopify.com/s/files/1/1613/0177/files/demo8-category-banner.jpg
+08:53:32	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/s/files/1/1613/0177/files/demo8-category-banner.jpg and https://cdn.shopify.com/s/files/1/1613/0177/files/demo8-category-banner.jpg
+08:53:32	Warning: 	Warning moved treated for cdn.shopify.com/s/files/1/1613/0177/files/demo8-category-banner.jpg (real one is https://cdn.shopify.com/s/files/1/1613/0177/files/demo8-category-banner.jpg)
+08:53:35	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/pages/POST (from https://porto-demo13.myshopify.com/pages/about-us)
+08:53:35	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/blogs/POST (from https://porto-demo13.myshopify.com/blogs/news)
+08:53:35	Error: 	"Not Found" (404) at link https://cdn.shopify.com/s/files/1/1559/5181/files/01.jpg (from https://porto-demo13.myshopify.com/blogs/news)
+08:53:35	Warning: 	Moved Permanently for cdn.shopify.com/s/files/1/1559/5181/files/02.jpg
+08:53:35	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/s/files/1/1559/5181/files/02.jpg and https://cdn.shopify.com/s/files/1/1559/5181/files/02.jpg
+08:53:35	Warning: 	Warning moved treated for cdn.shopify.com/s/files/1/1559/5181/files/02.jpg (real one is https://cdn.shopify.com/s/files/1/1559/5181/files/02.jpg)
+08:53:35	Warning: 	Moved Permanently for cdn.shopify.com/s/files/1/1559/5181/files/03.jpg
+08:53:35	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/s/files/1/1559/5181/files/03.jpg and https://cdn.shopify.com/s/files/1/1559/5181/files/03.jpg
+08:53:35	Warning: 	Warning moved treated for cdn.shopify.com/s/files/1/1559/5181/files/03.jpg (real one is https://cdn.shopify.com/s/files/1/1559/5181/files/03.jpg)
+08:53:35	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/featured-products/products/POST (from https://porto-demo13.myshopify.com/collections/featured-products/products/men-gentle-shoes)
+08:53:35	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/cdn.shopify.com/s/files/1/1632/5913/files/size_guide.png (from https://porto-demo13.myshopify.com/collections/featured-products/products/men-gentle-shoes)
+08:53:40	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/top-rated-products/products/POST (from https://porto-demo13.myshopify.com/collections/top-rated-products/products/men-gentle-shoes)
+08:53:40	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/best-selling-products/products/POST (from https://porto-demo13.myshopify.com/collections/best-selling-products/products/men-gentle-shoes)
+08:53:40	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/latest-products/products/POST (from https://porto-demo13.myshopify.com/collections/latest-products/products/men-gentle-shoes)
+08:53:41	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/blogs/news/POST (from https://porto-demo13.myshopify.com/blogs/news/post-format-video)
+08:53:41	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/POST (from https://porto-demo13.myshopify.com/de/)
+08:53:41	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/POST (from https://porto-demo13.myshopify.com/de/collections/dress)
+08:53:44	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/pages/POST (from https://porto-demo13.myshopify.com/de/pages/about-us)
+08:53:44	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/blogs/POST (from https://porto-demo13.myshopify.com/de/blogs/news)
+08:53:45	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/account/POST (from https://porto-demo13.myshopify.com/de/account/login?return_url=%2Fde%2Faccount)
+08:53:45	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/featured-products/products/POST (from https://porto-demo13.myshopify.com/de/collections/featured-products/products/men-gentle-shoes)
+08:53:46	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/top-rated-products/products/POST (from https://porto-demo13.myshopify.com/de/collections/top-rated-products/products/men-gentle-shoes)
+08:53:46	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/best-selling-products/products/POST (from https://porto-demo13.myshopify.com/de/collections/best-selling-products/products/men-gentle-shoes)
+08:53:46	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/latest-products/products/POST (from https://porto-demo13.myshopify.com/de/collections/latest-products/products/men-gentle-shoes)
+08:53:47	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/blogs/news/POST (from https://porto-demo13.myshopify.com/de/blogs/news/post-format-video)
+08:53:47	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/POST (from https://porto-demo13.myshopify.com/fr/)
+08:53:47	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/POST (from https://porto-demo13.myshopify.com/fr/collections/dress)
+08:53:50	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/pages/POST (from https://porto-demo13.myshopify.com/fr/pages/about-us)
+08:53:50	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/blogs/POST (from https://porto-demo13.myshopify.com/fr/blogs/news)
+08:53:50	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/account/POST (from https://porto-demo13.myshopify.com/fr/account/login?return_url=%2Ffr%2Faccount)
+08:53:50	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/featured-products/products/POST (from https://porto-demo13.myshopify.com/fr/collections/featured-products/products/men-gentle-shoes)
+08:53:51	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/top-rated-products/products/POST (from https://porto-demo13.myshopify.com/fr/collections/top-rated-products/products/men-gentle-shoes)
+08:53:51	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/best-selling-products/products/POST (from https://porto-demo13.myshopify.com/fr/collections/best-selling-products/products/men-gentle-shoes)
+08:53:51	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/latest-products/products/POST (from https://porto-demo13.myshopify.com/fr/collections/latest-products/products/men-gentle-shoes)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/blogs/news/POST (from https://porto-demo13.myshopify.com/fr/blogs/news/post-format-video)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/cart/POST (from https://porto-demo13.myshopify.com/cart/)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/dress/products/POST (from https://porto-demo13.myshopify.com/collections/dress/products/women-bag)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/products/POST (from https://porto-demo13.myshopify.com/products/gentle-shoes)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/headphone/products/POST (from https://porto-demo13.myshopify.com/collections/headphone/products/product-extended)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/shoes/products/POST (from https://porto-demo13.myshopify.com/collections/shoes/products/sports-shoes)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/trousers/products/POST (from https://porto-demo13.myshopify.com/collections/trousers/products/women-bag-1)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/shop/products/POST (from https://porto-demo13.myshopify.com/collections/shop/products/gentle-shoes)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/blogs/news/tagged/POST (from https://porto-demo13.myshopify.com/blogs/news/tagged/blog)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/products/POST (from https://porto-demo13.myshopify.com/de/products/men-gentle-shoes)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/products/POST (from https://porto-demo13.myshopify.com/fr/products/men-gentle-shoes)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/caps/products/POST (from https://porto-demo13.myshopify.com/collections/caps/products/porto-white-cap)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/t-shirts/products/POST (from https://porto-demo13.myshopify.com/collections/t-shirts/products/women-red-bag)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/watches/products/POST (from https://porto-demo13.myshopify.com/collections/watches/products/women-red-bag)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/collections/toys/products/POST (from https://porto-demo13.myshopify.com/collections/toys/products/women-bag-1)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/dress/products/POST (from https://porto-demo13.myshopify.com/de/collections/dress/products/women-bag)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/headphone/products/POST (from https://porto-demo13.myshopify.com/de/collections/headphone/products/product-extended)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/shoes/products/POST (from https://porto-demo13.myshopify.com/de/collections/shoes/products/sports-shoes)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/trousers/products/POST (from https://porto-demo13.myshopify.com/de/collections/trousers/products/women-bag-1)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/shop/products/POST (from https://porto-demo13.myshopify.com/de/collections/shop/products/gentle-shoes)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/blogs/news/tagged/POST (from https://porto-demo13.myshopify.com/de/blogs/news/tagged/blog)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/caps/products/POST (from https://porto-demo13.myshopify.com/de/collections/caps/products/porto-white-cap)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/t-shirts/products/POST (from https://porto-demo13.myshopify.com/de/collections/t-shirts/products/women-red-bag)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/watches/products/POST (from https://porto-demo13.myshopify.com/de/collections/watches/products/women-red-bag)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/de/collections/toys/products/POST (from https://porto-demo13.myshopify.com/de/collections/toys/products/women-bag-1)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/dress/products/POST (from https://porto-demo13.myshopify.com/fr/collections/dress/products/women-bag)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/headphone/products/POST (from https://porto-demo13.myshopify.com/fr/collections/headphone/products/product-extended)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/shoes/products/POST (from https://porto-demo13.myshopify.com/fr/collections/shoes/products/sports-shoes)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/trousers/products/POST (from https://porto-demo13.myshopify.com/fr/collections/trousers/products/women-bag-1)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/shop/products/POST (from https://porto-demo13.myshopify.com/fr/collections/shop/products/gentle-shoes)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/blogs/news/tagged/POST (from https://porto-demo13.myshopify.com/fr/blogs/news/tagged/blog)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/caps/products/POST (from https://porto-demo13.myshopify.com/fr/collections/caps/products/porto-white-cap)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/t-shirts/products/POST (from https://porto-demo13.myshopify.com/fr/collections/t-shirts/products/women-red-bag)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/watches/products/POST (from https://porto-demo13.myshopify.com/fr/collections/watches/products/women-red-bag)
+08:53:52	Error: 	"Not Found" (404) at link https://porto-demo13.myshopify.com/fr/collections/toys/products/POST (from https://porto-demo13.myshopify.com/fr/collections/toys/products/women-bag-1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 43 seconds : 832 links scanned, 746 files written (55129687 bytes overall), 1 files updated [27635 bytes received at 642 bytes/sec], 1.0 requests per connection
+(70 errors, 42 warnings, 0 messages)

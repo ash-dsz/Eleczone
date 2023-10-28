@@ -1,0 +1,9 @@
+.post-carousel .grid-box{position:relative;}
+.post-carousel .grid-box .post-date{position:absolute;top:10px;left:10px;font-family:Poppins;background:#222529;letter-spacing:.05em;width:45px;text-align:center;}
+.post-carousel .grid-box .post-date .day{background:none;color:#fff;font-size:18px;line-height:1;display:block;padding:10px 0 0;font-weight:700;}
+.post-carousel .grid-box .post-date .month{background:none;padding-bottom:8px;line-height:1;font-size:11.2px;text-transform:uppercase;opacity:.6;font-weight:400;display:block;color:#fff;}
+.post-carousel .grid-box .post-date ~ *{margin-left:0;}
+.post-carousel .grid-box .post-excerpt{font-size:13px;}
+.post-carousel .grid-box .post-excerpt > a{display:block;color:#222529;font-size:11.7px;font-weight:600;}
+.post-carousel h4{font-family:'Open Sans';font-size:18px;font-weight:700;}
+.post-carousel h4 a{color:inherit;}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://porto-demo13.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://porto-demo13.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://porto-demo13.myshopify.com/blogs/news/tagged/dresses.atom"/>
+  <title>Porto - Homepage 13 - News</title>
+  <updated>2016-12-06T14:26:00+07:00</updated>
+  <author>
+    <name>Porto - Homepage 13</name>
+  </author>
+  <entry>
+    <id>https://porto-demo13.myshopify.com/blogs/news/post-format-video</id>
+    <published>2016-12-06T14:26:00+07:00</published>
+    <updated>2016-12-06T14:26:48+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://porto-demo13.myshopify.com/blogs/news/post-format-video"/>
+    <title>Post Format – Video</title>
+    <author>
+      <name>Tong Duc Thach</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<iframe width="100%" height="315" src="//player.vimeo.com/video/28614006" frameborder="0" allowfullscreen=""></iframe><p><a class="read-more" href="https://porto-demo13.myshopify.com/blogs/news/post-format-video">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non placerat mi. Etiam non tellus sem. Aenea pretium convallis lorem, sit amet dapibus ante mollis a. Integer bibendum interdum sem, eget volutpat purus pulvinar in. Sed tristique augue vitae sagittis porta. Phasellus ullamcorper, dolor suscipit mattis viverra, sapien elit condimentum odio, ut imperdiet nisi risus sit amet ante. Sed sem lorem, laoreet et facilisis quis, tincidunt non lorem. Etiam tempus, dolor in sollicitudin faucibus, sem massa accumsan erat, sit amet laoreet eros metus eu mauris. Donec in suscipit nisl. Nullam eu sollicitudin tellus. Nulla aliquet turpis eget sodales scelerisque. Ut accumsan rhoncus sapien a dignissim. Sed vel ipsum nunc. Aliquam erat volutpat. Donec et dignissim elit. Etiam condimentum, ante sed rutrum auctor, quam arcu consequat massa, at gravida enim velit id nisl. Nullam non felis odio. Praesent aliquam magna est, nec volutpat quam aliquet non. Cras ut lobortis massa, a fringilla dolor. Quisque ornare est at felis consectetur mollis. Aliquam vitae metus et enim posuere ornare. Praesent sapien erat, pellentesque quis sollicitudin eget, imperdiet bibendum magna. Aenean sit amet odio est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris quis est lobortis odio dignissim rutrum. Pellentesque blandit lacinia diam, a tincidunt felis tempus eget. Donec egestas metus non vehicula accumsan. Pellentesque sit amet tempor nibh. Mauris in risus lorem. Cras malesuada gravida massa eget viverra. Suspendisse vitae dolor erat. Morbi id rhoncus enim. In hac habitasse platea dictumst. Aenean lorem diam, venenatis nec venenatis id, adipiscing ac massa. Nam vel dui eget justo dictum pretium a rhoncus ipsum. Donec venenatis erat tincidunt nunc suscipit, sit amet bibendum lacus posuere. Sed scelerisque, dolor a pharetra sodales, mi augue consequat sapien, et interdum tellus leo et nunc. Nunc imperdiet eu libero ut imperdiet. Nunc varius ornare tortor. In dignissim quam eget quam sodales egestas. Nullam imperdiet velit feugiat, egestas risus nec, rhoncus felis. Suspendisse sagittis enim aliquet augue consequat facilisis. Nunc sit amet eleifend tellus. Etiam rhoncus turpis quam. Vestibulum eu lacus mattis, dignissim justo vel, fermentum nulla. Donec pharetra augue eget diam dictum, eu ullamcorper arcu feugiat. Proin ut ante vitae magna cursus porta. Aenean rutrum faucibus augue eu convallis. Phasellus condimentum elit id cursus sodales. Vivamus nec est consectetur, tincidunt augue at, tempor libero.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://porto-demo13.myshopify.com/blogs/news/post-format-image-gallery</id>
+    <published>2016-12-06T14:22:00+07:00</published>
+    <updated>2016-12-06T14:25:03+07:00</updated>
+    <link rel="alternate" type="text/html" href="https://porto-demo13.myshopify.com/blogs/news/post-format-image-gallery"/>
+    <title>Post Format – Image Gallery</title>
+    <author>
+      <name>Tong Duc Thach</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<div class="banner-slider">
+<div class="data-carousel" data-items="1" data-auto="5000" data-paging="true" data-nav="false" data-loop="true" style="display: none;"></div>
+<div class="carousel-init owl-carousel">
+<div class="item"><img src="//cdn.shopify.com/s/files/1/1559/5181/files/01.jpg" alt=""></div>
+<div class="item"><img src="//cdn.shopify.com/s/files/1/1559/5181/files/02.jpg" alt=""></div>
+<div class="item"><img src="//cdn.shopify.com/s/files/1/1559/5181/files/03.jpg" alt=""></div>
+</div>
+</div><p><a class="read-more" href="https://porto-demo13.myshopify.com/blogs/news/post-format-image-gallery">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><span>Euismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla nunc dui, tristique in semper vel, congue sed ligula. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit. Morbi id aliquam ligula. Aliquam id dui sem. Proin rhoncus consequat nisl, eu ornare mauris tincidunt vitae. Nulla aliquet turpis eget sodales scelerisque. Ut accumsan rhoncus sapien a dignissim. Sed vel ipsum nunc. Aliquam erat volutpat. Donec et dignissim elit. Etiam condimentum, ante sed rutrum auctor, quam arcu consequat massa, at gravida enim velit id nisl. Nullam non felis odio. Praesent aliquam magna est, nec volutpat quam aliquet non. Cras ut lobortis massa, a fringilla dolor. Quisque ornare est at felis consectetur mollis. Aliquam vitae metus et enim posuere ornare. Praesent sapien erat, pellentesque quis sollicitudin eget, imperdiet bibendum magna. Aenean sit amet odio est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris quis est lobortis odio dignissim rutrum. Pellentesque blandit lacinia diam, a tincidunt felis tempus eget. Donec egestas metus non vehicula accumsan. Pellentesque sit amet tempor nibh. Mauris in risus lorem. Cras malesuada gravida massa eget viverra. Suspendisse vitae dolor erat. Morbi id rhoncus enim. In hac habitasse platea dictumst. Aenean lorem diam, venenatis nec venenatis id, adipiscing ac massa. Nam vel dui eget justo dictum pretium a rhoncus ipsum. Donec venenatis erat tincidunt nunc suscipit, sit amet bibendum lacus posuere. Sed scelerisque, dolor a pharetra sodales, mi augue consequat sapien, et interdum tellus leo et nunc. Nunc imperdiet eu libero ut imperdiet. Nunc varius ornare tortor. In dignissim quam eget quam sodales egestas. Nullam imperdiet velit feugiat, egestas risus nec, rhoncus felis. Suspendisse sagittis enim aliquet augue consequat facilisis. Nunc sit amet eleifend tellus. Etiam rhoncus turpis quam. Vestibulum eu lacus mattis, dignissim justo vel, fermentum nulla. Donec pharetra augue eget diam dictum, eu ullamcorper arcu feugiat. Proin ut ante vitae magna cursus porta. Aenean rutrum faucibus augue eu convallis. Phasellus condimentum elit id cursus sodales. Vivamus nec est consectetur, tincidunt augue at, tempor libero.</span></p>]]>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,2 @@
+[29-Jun-2020 22:17:13 Asia/Kolkata] PHP Warning:  file_get_contents(https://api.fixer.io/latest?symbols=&lt;Enter your display currency here&gt;&amp;base=INR): failed to open stream: HTTP request failed! HTTP/1.1 505 HTTP Version not supported
+ in /home/sarvajnaonline/public_html/razorpay/razorpay/pay.php on line 35

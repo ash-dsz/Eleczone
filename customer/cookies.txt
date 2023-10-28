@@ -1,0 +1,22 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+porto-demo13.myshopify.com	TRUE	/16130177/checkouts/20e00e75368a8681ec21d96b6b0b7e4a	FALSE	1999999999	checkout	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVUyWTJJMU9XUTJPVFUyT0RKa1lXTmpNVFJpT1Rnell6VTNOekk0WlRObVpnWTZCa1ZVIiwiZXhwIjoiMjAyMi0wNy0yNlQwNzoyMDo1NC43MDRaIiwicHVyIjoiY29va2llLmNoZWNrb3V0In19--5f174db7fbfc0d3c6cdab65d4430cb083c0e895c
+porto-demo13.myshopify.com	TRUE	/16130177	FALSE	1999999999	checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVV5TUdVd01HVTNOVE0yT0dFNE5qZ3haV015TVdRNU5tSTJZakJpTjJVMFlRWTZCa1ZVIiwiZXhwIjoiMjAyMy0wNy0wNVQwNzoyMDo1NC43MDVaIiwicHVyIjoiY29va2llLmNoZWNrb3V0X3Rva2VuIn19--471dcacfdc6b58a024cab70bb73eee0d2ed13093
+porto-demo13.myshopify.com	TRUE	/de	FALSE	1999999999	localization	US
+porto-demo13.myshopify.com	TRUE	/fr	FALSE	1999999999	localization	US
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	b58a6e77c44585261b7ff9913b0d0440
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	cart	60148f4bb40c0ca046edfdef07df2ec5
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	cart_ts	1657006927
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	_checkout_queue_token	Ag-KccvRdXoF5GxcXMP2qslZ1gtGy-Uiy4gM5ZPUvmSY6vW118DWxVJp9AId9C14F9K_ybLjP9ObtDp9Are36qOVmDdgmOqfdBzKc1Lfj6awcMa9QHJ9pKwCk4WMhEgksrm_NVA6HJX9MM_KOV2sazyQs3lM28cBpNJwekIqJw%3D%3D
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	_checkout_queue_checkout_token	eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaVV5TUdVd01HVTNOVE0yT0dFNE5qZ3haV015TVdRNU5tSTJZakJpTjJVMFlRWTZCa1ZVIiwiZXhwIjoiMjAyMi0wNy0wNVQwODo0MjowOC4wODhaIiwicHVyIjoiY29va2llLl9jaGVja291dF9xdWV1ZV9jaGVja291dF90b2tlbiJ9fQ%3D%3D--2c4de4813d5fe79fba5e30e9161db362db9a39b2
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	cart_ver	gcp-us-central1%3A168
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	cart_sig	8f67648e3ffd439a9328eb67b44016cd
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	localization	US
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	_y	47baa097-1956-459a-b415-7265770e80a0
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	_s	a45f438e-2a73-49ad-8943-887a6a1ee0ad
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	47baa097-1956-459a-b415-7265770e80a0
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	a45f438e-2a73-49ad-8943-887a6a1ee0ad
+porto-demo13.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
